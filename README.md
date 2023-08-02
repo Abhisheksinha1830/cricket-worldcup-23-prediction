@@ -1,7 +1,8 @@
 # cricket-worldcup-23-prediction
 This project harnesses the power of cutting-edge machine learning algorithms and data analysis techniques to forecast match outcomes with a high degree of accuracy
 ## Introduction 
-<img src="architecture.jpg?raw=true"/>
+<img src="2023_CWC_Logo.png?raw=true"/>
+
 The "Cricket ODI World Cup-23 Prediction" is an exciting data science project hosted on GitHub that aims to predict the outcomes of matches in the 23rd edition of the Cricket One Day International (ODI) World Cup. This project leverages the power of machine learning and data analysis techniques to forecast the results of upcoming matches, making it a valuable tool for cricket enthusiasts, fans, and analysts alike.
 
 ## Project Flow
