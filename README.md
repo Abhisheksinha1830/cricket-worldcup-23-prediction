@@ -9,7 +9,7 @@ The "Cricket ODI World Cup-23 Prediction" is an exciting data science project th
 Results of the ODI matches since 1970 and 2023 were taken from kaggle, and other dataset is taken from official ICC Cricket website.
 
 ## Project Flow
-<img src="india-2023-logo.png?raw=true"/>
+<img src="wc23 prediction work flow cropped.png?raw=true"/>
 
 1. Data Collection and Preprocessing: The project starts with collecting historical cricket match data for previous ODI matches.This data 
    is then meticulously preprocessed to handle missing values, clean inconsistencies, and extract relevant 
